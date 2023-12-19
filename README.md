@@ -9,3 +9,5 @@ Aditi Jain - 230968034
 Pulkit Kumar - 230906192
 
 Subham Chakraborty - 230953194
+
+Lakshit Verma - 230906288
