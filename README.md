@@ -12,3 +12,5 @@ Subham Chakraborty - 230953194
 Lakshit Verma - 230906288
 
 Akash Shaw - 230953254
+
+Rishik Reddy - 220968300
