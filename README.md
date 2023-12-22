@@ -16,3 +16,5 @@ Akash Shaw - 230953254
 Rishik Reddy - 220968300
 
 Aseem Anand - 220905490
+
+Vedika Gupta - 220905186
