@@ -1,5 +1,5 @@
 # BATCH2This is for the peeps in batch 2  
-Append you names along with your registration number here
+Append your names along with your registration number here
 
 M. Harshini - 220905025    
 
@@ -20,3 +20,5 @@ Aseem Anand - 220905490
 Vedika Gupta - 220905186
 
 Utkarsh Kumar Jha - 230953422
+
+Deepam Ahuja - 230953160
